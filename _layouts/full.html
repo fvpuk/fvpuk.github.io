@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include topbar.html %}
+        
+        <div id="container">
+            {% include navbar.html %}
+            <div id='header'>
+                {% include header.html %}
+            </div>
+            <div id="content">
+                {{ content }}
+            </div>
+            <div class="clear"></div>
+            {% include credit.html %}
+        </div>
+        {% include script.html %}
+   </body>
+</html>

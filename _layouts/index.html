@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head_alt.html %}
+    </head>
+    <body>
+        {% include topbar.html %}
+        
+        <div id="container">
+            {% include navbar.html %}
+            <div id='header'>
+                <a class='exchange pull-right buttonbg' href='#'>Exchange Student? Click here!</a>
+                <div class='clear'></div>
+                {% include header.html %}
+                {% include carousel.html %}
+            </div>
+            <div id="content">
+                {{ content }}
+            </div>
+            <div class="clear"></div>
+            {% include credit.html %}
+        </div>
+        {% include script.html %}
+   </body>
+</html>
