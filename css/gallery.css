@@ -17,6 +17,12 @@
   margin: 0;
 }
 
+.contentone ul, .contentone ul li{
+  padding: 0;
+  margin: 0;
+}
+  
+}
 .containerone {
  width: 90%;
  -webkit-box-sizing: border-box;
