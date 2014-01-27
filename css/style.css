@@ -1,4 +1,9 @@
 /* Basic Style */
+* {
+    padding: 0;
+    margin: 0;
+}﻿
+
 body{
     background: url(https://googledrive.com/host/0Bz6HRVCs7oBaa1ZQSDVoMmdDTXc/mochaGrunge.png) repeat fixed;
     font-family: Lato;
