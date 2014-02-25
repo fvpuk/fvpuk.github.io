@@ -23,6 +23,7 @@ h1{
     text-align: right; 
     border-bottom: 3px solid #750219;
     margin-bottom: 20px;
+    padding-right: 20px;
 }
 
 a:link, a:visited {
