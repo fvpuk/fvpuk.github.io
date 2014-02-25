@@ -22,6 +22,9 @@ h1{
     line-height: 2;
     text-align: right; 
     border-bottom: 3px solid #750219;
+    width: 50%;
+    position: relative;
+    right: 0; 
 }
 
 a:link, a:visited {
