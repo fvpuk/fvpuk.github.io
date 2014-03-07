@@ -264,3 +264,8 @@ img{
 .welcome{
     padding: 0 10px;
 }
+
+.rss2html-note{
+    font-weight: 300;
+    font-size: 70%; 
+}
