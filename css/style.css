@@ -4,6 +4,7 @@ body{
     font-family: Lato;
     color: #1a1a1a;
     font-size: 18px; 
+    word-wrap:  break-word;
 }
 
 h1, h2, h3, h4, h5 {
