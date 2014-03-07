@@ -8,26 +8,6 @@ body{
     font-weight: 300;
 }
 
-h1, h2, h3, h4, h5 {
-    font-family: Lato;
-    font-weight: 700; 
-    text-transform: uppercase;
-    color: #750219;
-}
-
-h2{
-    font-size: 33px;
-}
-
-h1{
-    font-size: 40px; 
-    line-height: 1.7;
-    text-align: right; 
-    border-bottom: 3px solid #750219;
-    margin-bottom: 20px;
-    padding-right: 20px;
-}
-
 a:link, a:visited {
     color: #750219;  
     text-decoration: none; 
@@ -48,6 +28,26 @@ a:hover{
 .buttonbg:hover{
     border-top: 0px; 
     background: #750219;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Lato;
+    font-weight: 700; 
+    text-transform: uppercase;
+    color: #750219;
+}
+
+h2{
+    font-size: 33px;
+}
+
+h1{
+    font-size: 40px; 
+    line-height: 1.7;
+    text-align: right; 
+    border-bottom: 3px solid #750219;
+    margin-bottom: 20px;
+    padding-right: 20px;
 }
 
 .links li{
