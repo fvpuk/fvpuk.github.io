@@ -251,6 +251,10 @@ img{
     width: 100%;
 }
 
+.imgr, .imgl{
+padding: 10px; 
+}
+
 .imgr, .informationr{
     float: right;
     max-width: 100%; 
