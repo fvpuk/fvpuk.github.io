@@ -1,0 +1,34 @@
+/* Topbar Style */
+.topbar{
+    width: 100%; 
+    background: $darkgray; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    z-index: 30; 
+    
+    a{
+        color: rgba($white, .7);
+        
+        &:hover{
+            color: $white;
+            border-top: 0; 
+        }
+    }
+}
+
+.facebook:hover, 
+.fa-facebook:hover{
+    color: #3b5998 !important;
+}
+
+.twitter:hover, 
+.fa-twitter:hover{
+    color: #00aced !important;
+}
+
+@media screen and (max-width:450px){
+    .topbar .navbar-brand{
+        display: none;
+    }
+}

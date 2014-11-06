@@ -1,0 +1,41 @@
+/* Carousel Style */
+#carousel-example-generic{
+    width: 1300px; 
+    max-width: 100%;
+    position: realtive;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;  
+}
+
+.carousel-caption{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba($black, .4);
+    position: absolute;
+    left: 0;  
+    
+    h3{
+        font-weight: $bold; 
+        color: $white; 
+        
+        a{
+            color: $white !important;
+        
+            &:hover{
+                opacity: .8; 
+            }
+        }
+    }    
+}
+
+.carousel-control{
+    color: rgba($white, .8);
+}
+
+@media screen and (max-width:500px){
+    .carousel{
+        display: none; 
+    }
+}

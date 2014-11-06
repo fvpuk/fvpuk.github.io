@@ -1,0 +1,108 @@
+/* Basic Style */
+body{
+    background: url(https://googledrive.com/host/0Bz6HRVCs7oBaa1ZQSDVoMmdDTXc/mochaGrunge.png) repeat fixed;
+    font:{
+        family: $lato;
+        size: 18px; 
+        weight: $light;
+    }
+    color: $darkgray;
+    word-wrap:  break-word;
+}
+
+#container{
+    position: relative;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px; 
+    background: $white;
+    margin-top: 80px; 
+    height: auto;
+    
+    @media screen and (max-width:500px){
+        width: 90%;
+    }
+}
+
+a {
+    &:link{ 
+    color: $red;  
+    text-decoration: none; 
+    font-weight: $normal;
+    }
+    
+    &:visited {
+        @extend a:link;
+    }
+    
+    &:hover{ 
+        color: $gray; 
+        border-top: 2px solid $lightred;
+    }
+}
+
+.buttonbg{
+    background: $lightgray; 
+    padding: 3px; 
+    color: white !important;
+    
+    &:hover{
+        border-top: 0px; 
+        background: $red;
+    }
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: $lato;
+    font-weight: $bold; 
+    text-transform: uppercase;
+    color: $red;
+    
+    & a{
+        font-weight: $bold !important; 
+    }
+}
+
+h1{
+    font-size: 40px; 
+    line-height: 1.7;
+    text-align: right; 
+    border-bottom: 3px solid $red;
+    margin-bottom: 20px;
+    padding-right: 20px;
+}
+
+h2{
+    font-size: 33px;
+}
+
+.links li{
+    list-style-type: circle;
+}
+
+img{
+    max-width: 100%;
+}
+
+.exchange{
+    position: absolute; 
+    margin-top: -30px; 
+    right: 0px;
+}
+
+#fb-root {
+    display: none;
+}
+
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
+
+.rss2html-note{
+    font-weight: 300;
+    font-size: 70%; 
+}
+
+
+

@@ -1,0 +1,32 @@
+
+.containerone {
+    width: 90%;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+    position: relative;
+}
+
+.contentone {
+    column-count: 3;
+    column-gap: 4px;
+    width: 100%;
+    font-size: 0 !important;
+    line-height: 0 !important;
+    padding: 0;
+    margin: 0;
+    
+    img {
+        width: 100%;
+        padding-bottom: 4px;
+    }
+    
+    ul{
+        padding: 0;
+        margin: 0;
+        
+        li{
+            @extend ul;
+        }
+    }
+}

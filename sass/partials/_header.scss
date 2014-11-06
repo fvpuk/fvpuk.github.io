@@ -1,0 +1,23 @@
+
+#header{
+    width: 100%;
+    position: relative;
+    top: 10px;
+    text-align: center;
+    margin: auto; 
+}
+
+.headpic {
+    padding-bottom: 60px;
+    margin-top: 25px; 
+    width: 500px;
+    max-width: 100%; 
+    
+    &:hover{
+        border: 0; 
+    }
+    
+    img{
+        @extend .headpic;
+    }
+}

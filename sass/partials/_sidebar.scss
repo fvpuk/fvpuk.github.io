@@ -1,0 +1,37 @@
+.container{
+    @include flexbox(row, wrap, space-between, stretch);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    width: 70%;
+    position: relative;
+    top: 10px;  
+    
+    @media screen and (min-width: $sidebar_collapse + 1){
+        z-index: 1; 
+    }
+    
+    @media screen and (max-width: $sidebar_collapse){
+        width: 100%;
+    }
+}
+
+#sidebar{
+    width: 27%;
+    position: relative; 
+    top: 10px;
+    
+    @media screen and (min-width: $sidebar_collapse + 1){
+        border-left: 1px $gray solid; 
+        margin-top: 30px; 
+        padding-left: 1%;
+    }
+    
+    @media screen and (max-width: $sidebar_collapse){
+        width: 100%;
+    }
+}
+

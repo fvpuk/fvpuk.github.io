@@ -1,1 +1,13 @@
 name: FV Publizistik
+relative_permalinks: false
+exclude: [
+.git,
+.gitignore,
+scss,
+.sass-cache,
+package.json,
+gruntfile.js,
+node_modules,
+]
+kramdown:
+  auto_ids: false
