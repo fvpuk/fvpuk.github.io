@@ -8,6 +8,18 @@
     font-size: 25px;
     text-align: center;
     position: relative; 
+
+    &:nth-of-type(odd){
+        @include flexbox(row, nowrap, flex-start, center);
+    }
+    &:nth-of-type(even){
+        @include flexbox(row-reverse, nowrap, flex-start, center);
+    }
+
+    .mail{
+        display: block;
+        padding-top: 10px;
+    }
 }
 
 .job{
