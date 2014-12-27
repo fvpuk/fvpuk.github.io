@@ -2,11 +2,11 @@
 layout: sidebar
 title: FV PuK - Uni News
 ---
-<h1>Fachverein NEWS</h1>
-<p>Die Bilder zum BA und MA Abschlussfest vom 03.10.2014 findet ihr <a href="http://fvpuk.ch/gallery/141003_Abschlussfeier/">hier</a>.</p>
-<br>
-<br><h1>UZH News</h1>
-<p>Aktuelle Nachrichten der Universität Zürich.</p>
+#Fachverein NEWS
+Die Bilder zum BA und MA Abschlussfest vom 03.10.2014 findet ihr [hier](http://fvpuk.ch/gallery/141003_Abschlussfeier/).
+
+#UZH News
+Aktuelle Nachrichten der Universität Zürich.
 <br>
 <br>
 <script id="feed-1394197493514697" type="text/javascript" src="http://rss.bloople.net/?url=http%3A%2F%2Fwww.uzh.ch%2Fnews%2Farticles.rss&showtitle=false&type=js&id=1394197493514697"></script>
