@@ -23,6 +23,11 @@ body{
     @media screen and (max-width:500px){
         width: 90%;
     }
+
+    #content{
+        box-sizing: border-box;
+        padding: 20px;
+    }
 }
 
 a {
