@@ -30,7 +30,7 @@ Grundsätzlich werden am IPMZ Studienaufenthalte an anderen Universitäten als B
 
 * **Mobilität im Masterstudium:** Mit Ausnahme des zweisemestrigen Forschungsseminars können prinzipiell alle Module auch an einer anderen Universität absolviert werden. Besonders geeignet sind dabei Wahlvorlesungen und das Studium Generale. Es können jedoch maximal 20 ECTS einer anderen Universität angerechnet werden. Wichtig ist, vor der Abreise mit der Auslandstudienberaterin ein [Learning-Agreement](http://www.int.uzh.ch/out/information/learningagreement.html) abzuschliessen.
 
-* **Kontaktperson Auslandstudienberatung**: Dr. Ulrike Klinger, Mobilitätssprechstunde immer Dienstag, 16 -18 Uhr (Büro AND 3.86) nach vorheriger Anmeldung per <a href="mailto: mobilitaet@ipmz.uzh.ch" target="_top">Email</a>
+* **Kontaktperson Auslandstudienberatung**: Dr. Karin Pühringer, Terminvereinbarung per <a href="mailto: mobilitaet@ipmz.uzh.ch" target="_top">Email</a>.
 
 * **Informationsveranstaltungen:** Eine Informationsveranstaltung findet jeweils im Herbstsemester anfangs Dezember statt. Die Ankündigung erfolgt über die Mailingliste.
 
