@@ -8,6 +8,7 @@ scss,
 package.json,
 gruntfile.js,
 node_modules,
+CNAME,
 ]
 kramdown:
   auto_ids: false
