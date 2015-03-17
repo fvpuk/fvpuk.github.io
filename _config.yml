@@ -9,6 +9,7 @@ package.json,
 gruntfile.js,
 node_modules,
 CNAME,
+npm-debug.log
 ]
 kramdown:
   auto_ids: false
