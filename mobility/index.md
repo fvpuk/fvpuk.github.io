@@ -18,7 +18,7 @@ Studierende der Universität Zürich haben fünf verschiedene Möglichkeiten, an
    Die Mobilität zwischen den Universitäten ist stark vereinfacht, wenn dies im Rahmen eines internationalen Programmes (Erasmus) oder an einer anderen Schweizer Universität (CH-Uni-Mobil) geschieht. Ansonsten muss man sich selber um die Organisation kümmern.
 
 ##Warum und ob?
-Grundsätzlich werden am IPMZ Studienaufenthalte an anderen Universitäten als Bereicherung angesehen. Auslandsaufenthalte ermöglichen es, ein erweitertes fachliches Angebot zu nutzen und Lehrveranstaltungen zu besuchen, die an der Universität Zürich nicht angeboten werden. Dadurch kannst du deine akademische Qualifikation thematisch noch deutlich erweitern. Ausserdem können Kontakte geknüpft und wertvolle Erfahrungen gesammelt werden.
+Grundsätzlich werden am IPMZ Studienaufenthalte an anderen Universitäten als Bereicherung angesehen. Auslandsaufenthalte ermöglichen es, ein erweitertes fachliches Angebot zu nutzen und Lehrveranstaltungen zu besuchen, die an der Universität Zürich nicht angeboten werden. Dadurch kannst du deine akademische Qualifikation thematisch noch deutlich erweitern. Ausserdem können Kontakte geknüpft und wertvolle Erfahrungen gesammelt werden. Hallo
 
 ##Wichtige Infos zur reibungslosen Planung/ Wo fange ich an:
 * **Frühzeitige Planung**: Der Auslandsaufenthalt sollte gemä individuellen Bedürfnissen und Wünschen geplant werden. 
