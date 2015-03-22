@@ -11,15 +11,23 @@
 
     &:nth-of-type(odd){
         @include flexbox(row, nowrap, flex-start, center);
+
+        .img{
+            margin-right: 20px;
+        }
     }
     &:nth-of-type(even){
         @include flexbox(row-reverse, nowrap, flex-start, center);
-    }
 
-    .mail{
-        display: block;
-        padding-top: 10px;
+        .img{
+            margin-left: 20px;
+        }
     }
+}
+
+.mail{
+    display: block;
+    padding-top: 10px;
 }
 
 .job{
@@ -36,25 +44,4 @@
     font-size: 30px;
     padding-bottom: 5px; 
     width: 100%;
-}
-
-.imgr, 
-.imgl{
-    margin: 0px 10px; 
-}
-
-.imgr, 
-.informationr{
-    float: right;
-    max-width: 100%; 
-}
-
-.informationl, 
-.imgl{
-    float: left; 
-    max-width: 100%; 
-}
-
-.welcome{
-    padding: 0 10px;
 }

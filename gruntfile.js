@@ -36,19 +36,25 @@ module.exports = function(grunt) {
         
         shell: {
             jekyllServe: {
-                command: "jekyll serve"
+                command: "jekyll serve --no-watch"
             },
             jekyllBuild: {
                 command: "jekyll build"
             }
         },
         
+        open : {
+            build: {
+                path: 'http://localhost:4000'
+            }
+        },
+
         watch: {
             options: {
                 livereload: true
             },
             site: {
-                files: ["*.html", "*.md", "_layouts/*.html", "_includes/*.html", "*/*.html", "*/*.md"],
+                files: ["*.html", "**/*.html", "*.md", "**/*.md", "**/*.yml", "*.yml", "!_site/*.*", "!_site/**/*.*"],
                 tasks: ["shell:jekyllBuild"]
             },
             js: {
@@ -56,26 +62,15 @@ module.exports = function(grunt) {
                 tasks: ["uglify", "shell:jekyllBuild"]
             },
             css: {
-                files: ["sass/*.scss", "sass/partials/*.scss", "sass/modules/*.scss"],
+                files: ["sass/*.scss", "sass/**/*.scss", "sass/**/**/*.scss"],
                 tasks: ["sass", "autoprefixer", "shell:jekyllBuild"]
             }
-        },
-
-        
-        
-        
+        }
     });
     
-    
-    grunt.loadNpmTasks('grunt-contrib-uglify');
-    grunt.loadNpmTasks('grunt-sass');
-    grunt.loadNpmTasks('grunt-contrib-watch');
-    grunt.loadNpmTasks('grunt-autoprefixer');
-    grunt.loadNpmTasks('grunt-shell');
+    require('load-grunt-tasks')(grunt);
     
     // Default task(s).
-    
     grunt.registerTask("serve", ["shell:jekyllServe"]);
-    grunt.registerTask("default", ["uglify", "sass", "autoprefixer", "shell:jekyllBuild", "watch"]);
-    
+    grunt.registerTask("default", ["open", "sass", "autoprefixer", "shell:jekyllBuild", "watch"]);
 };
