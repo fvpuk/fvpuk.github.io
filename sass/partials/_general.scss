@@ -109,5 +109,21 @@ img{
     font-size: 70%; 
 }
 
+// Notice
+.notice{
+    background: $red;
+    color: $white;
+    width: auto;
+    display: inline-block;
+    padding: 20px;
+    position: fixed;
+    z-index: 29;
+    top: 50px;
+    left: 20px;
+    transition: .5s all ease;
+    transform: translate(0, -100%);
 
-
+    &.active{
+        transform: translate(0, 0);
+    }
+}

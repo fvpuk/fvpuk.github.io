@@ -72,5 +72,5 @@ module.exports = function(grunt) {
     
     // Default task(s).
     grunt.registerTask("serve", ["shell:jekyllServe"]);
-    grunt.registerTask("default", ["open", "sass", "autoprefixer", "shell:jekyllBuild", "watch"]);
+    grunt.registerTask("default", ["sass", "autoprefixer", "shell:jekyllBuild", "open", "watch"]);
 };
