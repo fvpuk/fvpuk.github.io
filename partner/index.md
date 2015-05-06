@@ -6,7 +6,7 @@ title: FV PuK - Partner
 
 ##Radio LoRa (Sirup)     
 
- <img border="0" src="/img/radio-sirup-kl.png"/>  
+ <img border="0" src="/img/radio-sirup.png"/>  
  
 Radio selbst gemacht - Your voice on air!
 
