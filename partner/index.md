@@ -1,5 +1,5 @@
 ---
-layout: sidebar
+layout: full
 title: FV PuK - Partner
 ---
 #Medienpartner
