@@ -122,7 +122,7 @@ img{
     left: 20px;
     transition: .5s all ease;
     transform: translate(0, -100%);
-
+a{ color: $white; &:hover{ color: $white; }}
     &.active{
         transform: translate(0, 0);
     }
