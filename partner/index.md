@@ -14,7 +14,7 @@ Jede Woche berichten Studierende der UZH und der ETH in der einstündige Radiose
 
 Bei SIRUP lernst du was es braucht, um eine Radiosendung zu produzieren und du wirst direkt ins Radiohandwerk eingeführt. 
 Bei uns mitzumachen ist mehr als ein Hobby: Es ist ein Sprungbrett in die Medienwelt. 
-Weitere Infos: www.sirup.uzh.ch
+Weitere Infos: **www.sirup.uzh.ch**
 
 
 
