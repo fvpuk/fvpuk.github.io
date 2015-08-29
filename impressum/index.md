@@ -16,6 +16,6 @@ Webdesign & Coding, Publikation der Website:<br>
 Myriam Frisano, <a href="http://halfapx.com/">www.halfapx.com</a><br><br>
 
 Webadministration:<br>
-<font size="1"; color="grey">zuständig seit FS2015</font>
+<span style="color:grey">zuständig seit FS2015</span>
 Cécile-Nadine Kuhn<br>
 </div>
