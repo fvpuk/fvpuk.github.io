@@ -12,11 +12,11 @@ Schweiz<br>
 </p><br>
 
 <h3>Webdesign & Webadministration</h3>
-Webdesign & Coding:<br>
+**Webdesign & Coding:**<br>
 <span style="color:grey">Publikation der Website</span><br>
 Myriam Frisano, <a href="http://halfapx.com/">www.halfapx.com</a><br><br>
 
-Webadministration:<br>
+**Webadministration:**<br>
 <span style="color:grey">zuständig seit FS2015</span><br>
 Cécile-Nadine Kuhn<br>
 </div>
