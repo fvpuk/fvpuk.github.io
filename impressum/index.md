@@ -17,6 +17,6 @@ Schweiz<br>
 Myriam Frisano, <a href="http://halfapx.com/">www.halfapx.com</a><br><br>
 
 <b>Webadministration:</b><br>
-<span style="color:grey">zuständig seit FS2015</span><br>
+<span style="color:grey">zuständig seit HS 2014</span><br>
 Cécile-Nadine Kuhn<br>
 </div>
