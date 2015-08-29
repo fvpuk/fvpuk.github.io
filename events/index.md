@@ -5,16 +5,16 @@ title: FV PuK - Events
 
 #Aktuell
 
-#Führung in der Agentur: <a href="http://jvm.ch/">Jung von Matt/Limmat</a>
+##Führung in der Agentur: <a href="http://jvm.ch/">Jung von Matt/Limmat</a>
 "Jung von Matt ist die Schweizer Kreativagentur fürs digitale Zeitalter mit 80 Mitarbeiterinnen und Mitarbeitern inklusive 21 Experten aus den Bereichen Digital Planning, Social Media, Web Development, Digital Art Direction, Screen Design und Motion Design."
 Weitere Informationen über Jung von Matt/Limmat findet ihr hier: **http://www.jvm.ch/**
 
 ---
 
 **Ihr erhaltet:**
-* einen exklusiven Einblick in den Alltag der Agentur
-* einen spannenden Vortrag
-* die Möglichkeit den Mitarbeitenden und einem Mitglied der Geschäftsleitung Fragen zu stellen
+*einen exklusiven Einblick in den Alltag der Agentur
+*einen spannenden Vortrag
+*die Möglichkeit den Mitarbeitenden und einem Mitglied der Geschäftsleitung Fragen zu stellen
 
 ---
 
