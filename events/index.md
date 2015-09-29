@@ -5,6 +5,11 @@ title: FV PuK - Events
 
 #Aktuell
 
+...
+
+
+
+#Vergangenes
 ###Führung in der Agentur: <a href="http://jvm.ch/" target="_blank">Jung von Matt/Limmat</a>
 **Dienstag, 29. September, 14:00 Uhr**
 
@@ -28,8 +33,3 @@ Schreibt uns eine Mail an: **fuehrungen@fvpuk.ch** – und erklärt in 1-2 Sätz
 
 **Wir kontaktieren die Studenten, welche sich die Führung in den Kalender eintragen dürfen, am 15. September.**
 
-
-
-#Vergangenes
-Wir benötigen noch einen Moment Zeit, um all unsere tollen Events zusammenzutragen.
-Schau doch demnächst noch einmal rein, oder besuche uns auf <a href="https://www.facebook.com/pages/Publizistik-UZH/193718193222" target="_blank">Facebook</a>.
